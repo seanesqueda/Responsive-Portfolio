@@ -197,3 +197,15 @@ body{
     display: inline-block;
     font-size: 18px;
 }
+
+@media only screen and (max-width: 640px) {
+    
+}
+
+@media only screen and (max-width: 768px) {
+    
+}
+
+@media only screen and (max-width: 980px) {
+    
+}
